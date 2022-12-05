@@ -1,0 +1,56 @@
+Programming in ANSI C
+E Balgurusamy
+423
+unavailable
+Fundamentals of Electric Circuits
+Matthew n. o. Sadiku
+1720
+my
+Fundamentals of Physics
+Jearl Walker
+485
+available
+Financial Accounting
+O'Reilly
+1005
+unavailable
+Fundamentals of Electric Circuits
+Charles K. Alexander
+782
+unavailable
+Schaum's Outline of Data Structures with C++
+John R. Hubbard
+984
+my
+Digital Logic Design
+B. Holdsworth
+2548
+unavailable
+Computer Architecture: A Quantitative Approach
+David A. Patterson
+314
+unavailable
+MATRIX
+Lauren Groff
+584
+unavailable
+The Z80 Microprocessor
+Ramesh S. Gaonkar
+861
+available
+Freakonomics
+Stephen J. Dubner
+258
+unavailable
+Effective Java
+Joshua Bloch
+348
+my
+The Algorithm Design Manual
+By Steven S Skiena
+4025
+unavailable
+Operating System
+Khurana Rohit
+3125
+available
